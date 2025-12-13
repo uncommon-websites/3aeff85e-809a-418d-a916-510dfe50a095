@@ -18,22 +18,22 @@
             <!-- Quote Content -->
             <div class="pr-8">
                 <div class="mb-8">
-                    <span class="text-sm font-bold tracking-widest uppercase">NOMURA</span>
+                    <span class="text-sm font-bold tracking-widest uppercase">WEALTH ADVISOR</span>
                 </div>
                 <blockquote class="text-2xl md:text-3xl font-light text-gray-900 leading-relaxed mb-12">
-                    "Our strategic integration of Rogo transforms how we deliver value to clients. Rogo enables our teams to analyze market data and identify opportunities with unprecedented speed and precision, while allowing our bankers to focus more deeply on client relationships and strategic advisory."
+                    "Petiole has transformed how we serve our high-net-worth clients. Access to institutional-quality private market deals with transparent reporting and lower minimums means we can now offer opportunities that were previously out of reach. The digital platform makes the entire process seamless."
                 </blockquote>
                 <div>
-                    <div class="font-medium text-gray-900">Patrice Maffre</div>
-                    <div class="text-[10px] uppercase tracking-widest text-gray-500 mt-1">International Head of Investment Banking, Nomura</div>
+                    <div class="font-medium text-gray-900">Sarah Mitchell</div>
+                    <div class="text-[10px] uppercase tracking-widest text-gray-500 mt-1">Managing Director, Private Wealth Management</div>
                 </div>
             </div>
 
             <!-- Image -->
             <div class="relative h-[600px] w-full overflow-hidden">
                 <img 
-                    src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=2071&auto=format&fit=crop" 
-                    alt="Business people walking" 
+                    src="/generated/image-confident-financial-executive-in-busines-1765584019871-1.webp" 
+                    alt="Financial executive" 
                     class="absolute inset-0 h-full w-full object-cover grayscale contrast-125"
                 />
             </div>
